@@ -1,0 +1,10 @@
+name: opencitations
+dependencies:
+- anaconda::ipykernel=4.5.2
+- anaconda::nbconvert=5.1.1
+- anaconda::notebook=5.0.0
+- anaconda::pandas=0.20.3
+- anaconda::python=3.6.2
+- anaconda::requests=2.12.4
+- anaconda::xz=5.2.2
+- conda-forge::nb_conda_kernels=2.1.0
