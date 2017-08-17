@@ -1,6 +1,5 @@
 *.zip
 *-corpus_id/
-*-triplestore/*.dar
-*-triplestore/err
-*-triplestore/occ.jnl
-*-triplestore/blazegraph.jar
+
+# Remnant from old approach. See sparql branch.
+*-triplestore/
