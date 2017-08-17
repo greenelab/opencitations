@@ -1,5 +1,6 @@
 *.zip
 *-corpus_id/
+*-corpus_br/
 
 # Remnant from old approach. See sparql branch.
 *-triplestore/
