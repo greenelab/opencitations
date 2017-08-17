@@ -4,3 +4,6 @@
 *-triplestore/err
 *-triplestore/occ.jnl
 *-triplestore/blazegraph.jar
+
+# Generated blazegraph files
+*-triplestore/nohup.out
