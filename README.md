@@ -36,9 +36,3 @@ Then use `source activate opencitations` and `source deactivate` to activate or 
 On windows, use `activate opencitations` and `deactivate` instead.
 
 In addition, to the conda environment, users will need to install the [Disk ARchive](http://dar.linux.free.fr/) (`dar`) utility to their system.
-
-## Code Review
-
-The Greene Lab has a [code review policy](http://greenelab-onboarding.readthedocs.io/en/latest/coding_and_software.html).
-However, this repository has not undergone code review by the lab.
-This notice will be removed once the repository has been reviewed.
